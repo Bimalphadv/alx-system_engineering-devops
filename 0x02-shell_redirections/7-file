@@ -1,6 +1,2 @@
 #!/bin/bash
-echo 'Best school' > \\\*\\\\"'\"Best School\"\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:mod u+x 7-file  # Grants execution permission to the file "7-file".
-git add .  # Adds all modified and new files to the staging area.
-git commit -m 'Good file'  # Creates a new commit with the commit message "Good file".
-git push  # Pushes the commits to the remote repository.
-)
+echo 'Best school' > \\\*\\\\"'\"Best School\"\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
