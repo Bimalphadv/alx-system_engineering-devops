@@ -1,0 +1,2 @@
+#!/bin nabsh
+tr -d 'Cc'
